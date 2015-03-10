@@ -1,0 +1,18 @@
+edu.dartmouth.cs.notifydemo.BuildConfig: BuildConfig()
+edu.dartmouth.cs.notifydemo.NotifyActivity
+edu.dartmouth.cs.notifydemo.NotifyActivity: NotifyActivity()
+edu.dartmouth.cs.notifydemo.NotifyService
+edu.dartmouth.cs.notifydemo.NotifyService: NotifyService()
+edu.dartmouth.cs.notifydemo.R: R()
+edu.dartmouth.cs.notifydemo.R$attr: R$attr()
+edu.dartmouth.cs.notifydemo.R$drawable: int icon
+edu.dartmouth.cs.notifydemo.R$drawable: R$drawable()
+edu.dartmouth.cs.notifydemo.R$id: int startservice
+edu.dartmouth.cs.notifydemo.R$id: int stopservice
+edu.dartmouth.cs.notifydemo.R$id: R$id()
+edu.dartmouth.cs.notifydemo.R$layout: int main
+edu.dartmouth.cs.notifydemo.R$layout: R$layout()
+edu.dartmouth.cs.notifydemo.R$string: int action_settings
+edu.dartmouth.cs.notifydemo.R$string: int app_name
+edu.dartmouth.cs.notifydemo.R$string: int hello_world
+edu.dartmouth.cs.notifydemo.R$string: R$string()
